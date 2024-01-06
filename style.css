@@ -1,0 +1,10 @@
+.karusel {
+    position: absolute;
+    width: 700px;
+    height: 450px;
+    top: 500;  
+}
+.pajination {
+    position: absolute;
+    top: 700px;
+}
